@@ -1,6 +1,6 @@
 # flutter26
 
-responsive vs adapter vt 28
+media queri vt 29
 
 ## Getting Started
 
